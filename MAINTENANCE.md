@@ -6,4 +6,4 @@ Document supported command options
 
 ## Updated
 
-2026-10-09 00:02:39 UTC
+2026-10-09 23:42:01 UTC
